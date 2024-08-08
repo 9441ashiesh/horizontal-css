@@ -1,4 +1,4 @@
 
 horizontal-css
 
-![code](https://ibb.co/bF5BxGk)
+![code](https://i.ibb.co/9hHTJd7/Screenshot-2024-08-08-194136.png)
